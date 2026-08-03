@@ -10,4 +10,3 @@ print(np.std(arr))
 print(np.var(arr))
 print(np.min(arr))
 print(np.max(arr))
-print
